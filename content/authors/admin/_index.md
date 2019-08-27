@@ -58,6 +58,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Carlos Meza is currently a student at The University of Texas at Arlington pursuing a bachelor degree in Computer Science
+for Software Engineer and graduates in December of 2019. Projects include working with C++ and GTK+, Android Studio using Java and MySql, Bluetooth Tire Caps using Pybluez Python and MySql. Interest include Data Mining, Machine Learning, Signal Processing.
