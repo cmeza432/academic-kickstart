@@ -5,17 +5,17 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
 color_theme = "dark"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "default"
+font = "mr_robot"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "myimage.pdf"
+sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
