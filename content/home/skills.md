@@ -40,13 +40,13 @@ subtitle = ""
 
   [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Mysql"
   description = "40%"
 
   [[feature]]
   icon = "project-diagram"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Project Documentation and UML diagrams"
   description = "40%"
 +++
