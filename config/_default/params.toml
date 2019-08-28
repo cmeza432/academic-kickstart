@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "1950s"
+color_theme = "dark"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -15,7 +15,7 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "myimage.pdf"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""

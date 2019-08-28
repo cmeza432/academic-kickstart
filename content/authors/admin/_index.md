@@ -59,4 +59,4 @@ user_groups:
 ---
 
 Carlos Meza is currently a student at The University of Texas at Arlington pursuing a bachelor degree in Computer Science
-for Software Engineer and graduates in December of 2019. Projects include working with C++ and GTK+, Android Studio using Java and MySql, Bluetooth Tire Caps using Pybluez Python and MySql. Interest include Data Mining, Machine Learning, Signal Processing.
+for Software Engineer and graduates in December of 2019. Projects include working with C++ and GTK+, Android Studio using Java and MySql, Bluetooth Tire Caps using Pybluez library in Python and MySql. Interest include Data Mining, Machine Learning and Signal Processing.
