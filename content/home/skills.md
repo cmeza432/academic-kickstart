@@ -19,18 +19,18 @@ subtitle = ""
 #  icon_pack = "fab"
 #  name = "Github"
 #  description = "20%"
+
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
+#  description = "40%"  
   
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "40%"  
-  
-[[feature]]
-  icon = "cuttlefish"
-  icon_pack = "fab"
-  name = "C programming"
-  description = "40%"
+#[[feature]]
+ # icon = "cuttlefish"
+ # icon_pack = "fab"
+ # name = "C programming"
+ # description = "40%"
 
 #[[feature]]
  # icon = "java"
@@ -44,9 +44,9 @@ subtitle = ""
   #name = "Mysql"
   #description = "40%"
 
-[[feature]]
-  icon = "project-diagram"
-  icon_pack = "fas"
-  name = "Project Documentation and UML diagrams"
-  description = "40%"
+#[[feature]]
+ # icon = "project-diagram"
+  #icon_pack = "fas"
+  #name = "Project Documentation and UML diagrams"
+  #description = "40%"
 +++
