@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Nissan"
   company_url = ""
   location = "Midland"
-  date_start = "March 2015"
-  date_end = "August 2015"
+  date_start = "Mar 2015"
+  date_end = "Aug 2015"
   description = """
   Responsibilities include:
 
