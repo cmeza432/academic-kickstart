@@ -15,12 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Github"
-  description = "20%"
-
-[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -33,9 +27,9 @@ subtitle = ""
   description = "40%"
 
 [[feature]]
-  icon = "java"
+  icon = "github"
   icon_pack = "fab"
-  name = "Java"
+  name = "Github"
   description = "20%"
 
   [[feature]]
@@ -49,4 +43,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Project Documentation and UML diagrams"
   description = "40%"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "20%"
 +++
