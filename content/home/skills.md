@@ -14,39 +14,39 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-#[[feature]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  name = "Github"
-#  description = "20%"
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = "20%"
 
-#[[feature]]
-#  icon = "python"
-#  icon_pack = "fab"
-#  name = "Python"
-#  description = "40%"  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "40%"  
   
-#[[feature]]
- # icon = "cuttlefish"
- # icon_pack = "fab"
- # name = "C programming"
- # description = "40%"
+[[feature]]
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "C programming"
+  description = "40%"
 
-#[[feature]]
- # icon = "java"
-  #icon_pack = "fab"
-  #name = "Java"
-  #description = "20%"
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "20%"
 
-  #[[feature]]
-  #icon = "database"
-  #icon_pack = "fas"
-  #name = "Mysql"
-  #description = "40%"
+  [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Mysql"
+  description = "40%"
 
-#[[feature]]
- # icon = "project-diagram"
-  #icon_pack = "fas"
-  #name = "Project Documentation and UML diagrams"
-  #description = "40%"
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Project Documentation and UML diagrams"
+  description = "40%"
 +++
