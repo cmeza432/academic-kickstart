@@ -56,10 +56,10 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
----
+#user_groups:
+#- Researchers
+#- Visitors
+#---
 
 Carlos Meza is currently a student at The University of Texas at Arlington pursuing a Bachelors degree in Computer Science
 for Software Engineer and graduates in December of 2019. Projects include working with C++ and GTK+, Android Studio using Java and MySql, Bluetooth Tire Caps using Pybluez library in Python and MySql.

@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "Data Mining Project"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "Data Mining Project"
+  #  tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -54,7 +54,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "navy"
+  #color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
