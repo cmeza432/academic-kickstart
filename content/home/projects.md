@@ -79,4 +79,4 @@ Movie Recomender App:
 This movie recomender app will help narrow down searches similar to movies you enjoy. Most apps use popoularity or 
 Critics reviews to help filter. This will filter using users ratings and help you find movies less known.
 App Proposal: https://drive.google.com/file/d/1OQin-RAee9lisyXhmJAOuzKwgdzULRzF/view?usp=sharing
-App screenshot: 
+App screenshot: https://drive.google.com/file/d/1Fe2nOIXlWsfhmgzpLM_OB2V3KYmiVMGM/view?usp=sharing
