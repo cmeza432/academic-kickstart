@@ -23,3 +23,5 @@ Contribution: Using Numpy to do better calculation when doing TFIDF by doing vec
 instead of doing each dimension seperate.
 
 Biggest challenge was getting the libraries once local app was finished so it can run on server. Had to set up environemt and download all libraries for that environment, then link it to the project.
+
+                          Link to app here: http://cmeza432.pythonanywhere.com/
