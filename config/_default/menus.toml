@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Project"
-  url = "#project"
+  url = "project/"
   weight = 30
 
 [[main]]
   name = "Post"
-  url = "#post"
+  url = "post/"
   weight = 40
 
 [[main]]

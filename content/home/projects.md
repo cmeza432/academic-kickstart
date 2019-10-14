@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
@@ -74,14 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-                                    Movie Recommender App
-
-Want to watch a movie you never heard of. Well come and use my movie recommender app to help and find movies
-similar to some of your favorites. Just type in the movie and it will bring up a list of movies that are similar that 
-you may like! I will be using the IMDB movie review dataset which includes over 50k reviews of both good and bad reviews.
-
-Dataset used: https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset
-
-Link to proposal: https://drive.google.com/file/d/1OQin-RAee9lisyXhmJAOuzKwgdzULRzF/view?usp=sharing
-
-Three screenshots: {{< gallery album="images">}}
