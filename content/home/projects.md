@@ -74,9 +74,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+                                    Movie Recommender App
 
-Movie Recomender App:
-This movie recomender app will help narrow down searches similar to movies you enjoy. Most apps use popoularity or 
-Critics reviews to help filter. This will filter using users ratings and help you find movies less known.
-App Proposal: https://drive.google.com/file/d/1OQin-RAee9lisyXhmJAOuzKwgdzULRzF/view?usp=sharing
-App screenshot: https://drive.google.com/file/d/1Fe2nOIXlWsfhmgzpLM_OB2V3KYmiVMGM/view?usp=sharing
+Want to watch a movie you never heard of. Well come and use my movie recommender app to help and find movies
+similar to some of your favorites. Just type in the movie and it will bring up a list of movies that are similar that 
+you may like! I will be using the IMDB movie review dataset which includes over 50k reviews of both good and bad reviews.
+
+Dataset used: https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset
+
+Link to proposal: https://drive.google.com/file/d/1OQin-RAee9lisyXhmJAOuzKwgdzULRzF/view?usp=sharing
+
+Three screenshots: {{< gallery album="images">}}
