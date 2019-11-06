@@ -18,12 +18,20 @@ This movie recommender app uses practices from the Data Mining Field to use diff
 
 Detailed info on how it works here: https://github.com/cmeza432/movie_recommender
 
-
+Reference: http://www.tfidf.com/
 Contribution: Using Numpy to do better calculation when doing TFIDF by doing vector multiplication on column to column
-instead of doing each dimension seperate.
+instead of doing each dimension seperate. Implementing into python.
 
 
-Biggest challenge was getting the libraries once local app was finished so it can run on server. Had to set up environemt and download all libraries for that environment, then link it to the project.
+Biggest challenge was getting the libraries once local app was finished so it can run on server. Solution was to set up environent  and once in that environment, download all libraries, then link it to the project while selecting that evnironment in web app page.
 
+Compile time without caching tfidf matrix:
+Without stop words: 30-40 seconds
+With stop words: 20-30 seconds
+
+Compile time with caching tfidf matrix:
+Without stop words: 10-15 seconds
+With stop words: 3-8 seconds
+ 
 
 [Link to app here](http://cmeza432.pythonanywhere.com)

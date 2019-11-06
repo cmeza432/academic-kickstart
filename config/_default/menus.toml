@@ -14,7 +14,7 @@
   weight = 30
 
 [[main]]
-  name = "About"
+  name = "Text Search"
   url = "post/"
   weight = 40
 
