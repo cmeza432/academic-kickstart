@@ -19,8 +19,13 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Classifier"
+  url = "classifier/"
+  weight = 60
+
+[[main]]
+  name = "Image Captioning"
+  url = "image_caption/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

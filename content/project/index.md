@@ -2,9 +2,8 @@
 
                                     Movie Recommender App
 
-Want to watch a movie you never heard of. Well come and use my movie recommender app to help and find movies
-similar to some of your favorites. Just type in the movie and it will bring up a list of movies that are similar that 
-you may like! I will be using the IMDB movie review dataset which includes over 50k reviews of both good and bad reviews.
+This movie recommender app uses practices from the Data Mining Field to use different methods for information retrieval. The webapp will use a Text Search, Classifier and Image Captioning to return results based on user input. It will run using Python Flask version 1.1.1. This will be done in three different iteration.
+
 
 Dataset used: https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset
 
