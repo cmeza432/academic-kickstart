@@ -37,4 +37,4 @@ Without stop words: 10-15 seconds
 With stop words: 3-8 seconds
  
 
-[Link to app here](http://cmeza432.pythonanywhere.com)
+[Link to text search here](http://cmeza432.pythonanywhere.com)

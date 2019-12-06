@@ -22,3 +22,5 @@ return the highest value and that genre it belongs too.
 
 Evaluation:
 This had to be done using Naive Bayes since when applying just the Bayes theorem I wouldn't get accurate results.
+
+[Link to classifier here](http://cmeza432.pythonanywhere.com/text_search)

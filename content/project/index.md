@@ -11,7 +11,9 @@ Link to proposal: https://drive.google.com/file/d/1OQin-RAee9lisyXhmJAOuzKwgdzUL
 
 Three screenshots: {{< gallery album="images">}}
 
-Links to the three parts of the Movie Recommender Project:
+Links to the parts of the Movie Recommender Project:
+
+[App Home Screen](http://cmeza432.pythonanywhere.com/)
 
 [Text Search](https://carlos-meza-203ce6.netlify.com/post/)
 
