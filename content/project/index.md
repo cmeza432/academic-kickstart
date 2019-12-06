@@ -21,4 +21,4 @@ Links to the parts of the Movie Recommender Project:
 
 [Image Captioning](https://carlos-meza-203ce6.netlify.com/image_caption/)
 
-[Project Video]()
+[Project Video](https://www.youtube.com/watch?v=p7OS0odCo0k)
