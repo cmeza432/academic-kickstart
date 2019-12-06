@@ -13,21 +13,6 @@
   url = "project/"
   weight = 30
 
-[[main]]
-  name = "Text Search"
-  url = "post/"
-  weight = 40
-
-[[main]]
-  name = "Classifier"
-  url = "classifier/"
-  weight = 60
-
-[[main]]
-  name = "Image Captioning"
-  url = "image_caption/"
-  weight = 60
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
