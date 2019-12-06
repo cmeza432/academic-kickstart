@@ -10,3 +10,13 @@ Dataset used: https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset
 Link to proposal: https://drive.google.com/file/d/1OQin-RAee9lisyXhmJAOuzKwgdzULRzF/view?usp=sharing
 
 Three screenshots: {{< gallery album="images">}}
+
+Links to the three parts of the Movie Recommender Project:
+
+[Text Search](https://carlos-meza-203ce6.netlify.com/post/)
+
+[Classifier](https://carlos-meza-203ce6.netlify.com/classifier/)
+
+[Image Captioning](https://carlos-meza-203ce6.netlify.com/image_caption/)
+
+[Project Video]()
