@@ -1,5 +1,3 @@
-
-
 +++ 
 title = "Movie Recommender App" 
 +++
