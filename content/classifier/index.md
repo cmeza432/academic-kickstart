@@ -1,5 +1,7 @@
                                                 
-+++ title="Classifier Feature" +++
++++ 
+title="Classifier Feature"
++++
 
 Second Iteration will be building a classifier feature. This classifier feature will use the user reviews about
 movies and try to classify the genre based on the word used to describe the movies. I will be using the Naive 

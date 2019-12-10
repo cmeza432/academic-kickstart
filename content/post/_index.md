@@ -11,7 +11,9 @@ header:
   image: ""
 --- -->
 
-+++ title="Text Search Feature" +++
++++ 
+title="Text Search Feature" 
++++
 
 First Iteration will be the text search feature. The dataset used will be the IMDB Reviews dataset which is roughly about 150MB in size and has over 50k reviews with both a test set and training set split into 25k each. User will type in text paragraph and it will rank using Cosine Similarity of each document with text input.
 

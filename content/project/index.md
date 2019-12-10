@@ -1,6 +1,8 @@
 
 
-+++ title="Movie Recommender App" +++
++++ 
+title = "Movie Recommender App" 
++++
 
 This movie recommender app uses practices from the Data Mining Field to use different methods for information retrieval. The webapp will use a Text Search, Classifier and Image Captioning to return results based on user input. It will run using Python Flask version 1.1.1. This will be done in three different iteration.
 
