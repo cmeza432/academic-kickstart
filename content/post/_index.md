@@ -20,6 +20,10 @@ instead of doing each dimension seperate. Implementing into python.
 ## Biggest Challenge 
 Challenge was getting the libraries once local app was finished so it can run on server. Solution was to set up environent  and once in that environment, download all libraries, then link it to the project while selecting that evnironment in web app page.
 
+## Algorithm
+Is first extracting all the unique words from all the documents. Once this dictionary is built, then we will calculate TF and IDF. Using these two values, we will
+then simply multiply and get the TF-IDF = TF * IDF. With given query from user this will then help us do the same to the user and use the cosine similarity to find the closest valued documents.
+
 ## Compile time without caching tfidf matrix:
 ### Without stop words: 30-40 seconds
 ### With stop words: 20-30 seconds

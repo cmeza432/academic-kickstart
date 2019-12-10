@@ -15,3 +15,5 @@ Converting the code to work on python anywhere and caching the the files for the
 
 ## Biggest Challenge 
 Trying to get it to download all files without running out of space on pythonanywhere. It was overcame by limiting the size of the dataset used to get something working.
+
+# Algorithm
