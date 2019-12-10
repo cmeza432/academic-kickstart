@@ -1,9 +1,15 @@
                                                 
-                                        Classifier Feature
++++ title="Classifier Feature" +++
 
 Second Iteration will be building a classifier feature. This classifier feature will use the user reviews about
 movies and try to classify the genre based on the word used to describe the movies. I will be using the Naive 
 Bayes Classifier algorithm for calculations. More detailed info here https://github.com/cmeza432/movie_recommender
+
+Deployment:
+
+Need to have Python Flask Version 1.1.1 or higher. To install just run on a terminal the command 
+pip install flask. Once envrionment is set up, then you can run in a terminal and get the local host link to test out
+from the machine locally.
 
 Reference: https://geeksforgeeks.org/naive-bayes-classifiers/
 Contribution to the reference would be seperating the data into calculatable numbers to perform the classifier
