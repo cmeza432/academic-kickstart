@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company = "Oreilly's Auto Parts"
   company_url = ""
   location = "Midland and Arlington, TX"
-  date_start = "2012-04-15"
+  date_start = "2016-10-15"
   date_end = "2020-02-16"
   description = """
   Responsibilities included:
