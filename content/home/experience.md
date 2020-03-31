@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Midland and Arlington, TX"
   date_start = "2012-04-15"
-  date_end = ""
+  date_end = "2020-012-16"
   description = """
   Responsibilities included:
   

@@ -24,13 +24,13 @@ subtitle = ""
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C programming"
-  description = "60%"
+  description = "50%"
 
 [[feature]]
   icon = "github"
   icon_pack = "fab"
   name = "Github"
-  description = "35%"
+  description = "40%"
 
   [[feature]]
   icon = "database"
@@ -48,5 +48,5 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "35%"
+  description = "70%"
 +++

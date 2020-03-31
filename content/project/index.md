@@ -27,5 +27,3 @@ Three screenshots: {{< gallery album="images">}}
 [Classifier](https://carlos-meza-203ce6.netlify.com/classifier/)
 
 [Image Captioning](https://carlos-meza-203ce6.netlify.com/image_caption/)
-
-[Project Video](https://www.youtube.com/watch?v=p7OS0odCo0k)
