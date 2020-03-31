@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Backend Developer"
+  company = "American Airlines"
+  company_url = ""
+  location = "Irving, TX"
+  date_start = "2020-02-24"
+  date_end = "2020-03-25"
+  description = """
+  Responsibilities included:
+  
+  * Used Java 8 and Spring framework
+  * Creating a Microservice using REST APIS's
+  * Debugging existing code
+  * Adding features to existing code
+  """
+
+[[experience]]
   title = "Parts Salesman"
   company = "Oreilly's Auto Parts"
   company_url = ""
@@ -25,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2012-04-15"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
   * Keeping track of customer orders
   * Daily inventory count
@@ -40,7 +56,7 @@ date_format = "Jan 2006"
   date_start = "2015-03-01"
   date_end = "2015-08-10"
   description = """
-  Responsibilities include:
+  Responsibilities included:
 
   * Updating customer on current status of vehicle
   * Handling charge cost for each job for both customer and tech

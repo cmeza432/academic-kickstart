@@ -24,6 +24,7 @@ interests:
 - Machine Learning
 - Data Mining
 - Signal Processing
+- Software Development
 
 education:
   courses:
@@ -61,6 +62,5 @@ user_groups:
 - Visitors
 ---
 
-Carlos Meza is currently a student at The University of Texas at Arlington pursuing a Bachelors degree in Computer Science
-for Software Engineer and graduates in December of 2019. Projects include making an app for C++, Android Studio, and Python and Java. Also created local databases for those apps in MySql. Have worked with GUI coding libraries such as GTK+ and Java Swing.
-Senior Design project involved using PyBluez from Python's bluetooth library by creating BLE Tire Caps.
+Carlos Meza graduated in December of 2019 from The University of Texas at Arlington with a Bachelors degree in Computer Science
+for Software Engineer. Projects include making an app for C++, Android Studio, and Python and Java. Familiar with SQL databases and using the Numpy, PyBluez libraries for Python. Also using Springboot, Swing for Java.
