@@ -19,14 +19,19 @@
   weight = 20
 
 [[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 25
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 25
+  weight = 30
 
 [[main]]
   name = "App"
   url = "project/"
-  weight = 30
+  weight = 35
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
