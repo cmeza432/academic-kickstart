@@ -6,10 +6,25 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 30
 
 [[main]]
-  name = "Project"
+  name = "Skills"
+  url = "#Skills"
+  weight = 30
+
+[[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 30
+
+[[main]]
+  name = "App"
   url = "project/"
   weight = 30
 

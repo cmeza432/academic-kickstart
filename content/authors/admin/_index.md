@@ -63,4 +63,4 @@ user_groups:
 ---
 
 Carlos Meza graduated in December of 2019 from The University of Texas at Arlington with a Bachelors degree in Computer Science
-for Software Engineer. Projects include making an app for C++, Android Studio, and Python and Java. Familiar with SQL databases and using the Numpy, PyBluez libraries for Python. Also using Springboot, Swing for Java.
+for Software Engineer. Projects include making an app for C++, Android Studio, and Python and Java. Familiar with SQL databases and using the Numpy, PyBluez libraries for Python. Also using Springboot, Swing, REST api's for Java.
